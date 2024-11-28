@@ -18,8 +18,8 @@ Si tu archivo está en la unidad `C:`, asegúrate de estar en esa unidad escribi
 ```bashs```
 
 C:
-Usa el comando cd para navegar a la carpeta donde guardaste tu archivo. Por ejemplo:
-cd "C:\Users\tunombre\OneDrive\Escritorio\nombrecarpeta"
+## Paso 4: Usa el comando cd para navegar a la carpeta donde guardaste tu archivo. Por ejemplo:
+`cd "C:\Users\tunombre\OneDrive\Escritorio\nombrecarpeta"`
 ## Paso 5: Verificar la Ubicación Actual
 Escribe `cd` y presiona Enter para confirmar que estás en la carpeta correcta.
 
