@@ -15,20 +15,21 @@ Presiona `Windows + R`, escribe `cmd` y presiona `Enter`.
 ## Paso 3: Cambiar a la Unidad Correcta
 
 Si tu archivo está en la unidad `C:`, asegúrate de estar en esa unidad escribiendo:
-```bash
+```bashs```
+
 C:
 Usa el comando cd para navegar a la carpeta donde guardaste tu archivo. Por ejemplo:
 cd "C:\Users\tunombre\OneDrive\Escritorio\nombrecarpeta"
-Paso 5: Verificar la Ubicación Actual
+## Paso 5: Verificar la Ubicación Actual
 Escribe cd y presiona Enter para confirmar que estás en la carpeta correcta.
 
-Paso 6: Compilar el Archivo Java
+## Paso 6: Compilar el Archivo Java
 Escribe el siguiente comando para compilar tu archivo:
 
 bash
 javac reto2.java
 
-Paso 7: Ejecutar el Archivo Java
+## Paso 7: Ejecutar el Archivo Java
 Una vez compilado, ejecuta el archivo escribiendo:
 
 bash
