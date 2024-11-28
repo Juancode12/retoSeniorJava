@@ -21,18 +21,18 @@ C:
 Usa el comando cd para navegar a la carpeta donde guardaste tu archivo. Por ejemplo:
 cd "C:\Users\tunombre\OneDrive\Escritorio\nombrecarpeta"
 ## Paso 5: Verificar la Ubicación Actual
-Escribe cd y presiona Enter para confirmar que estás en la carpeta correcta.
+Escribe `cd` y presiona Enter para confirmar que estás en la carpeta correcta.
 
 ## Paso 6: Compilar el Archivo Java
 Escribe el siguiente comando para compilar tu archivo:
 
 bash
-javac reto2.java
+`javac reto2.java`
 
 ## Paso 7: Ejecutar el Archivo Java
 Una vez compilado, ejecuta el archivo escribiendo:
 
 bash
-java reto2
-
+`java reto2`
+Finalmente el programa se ejecutará
 
